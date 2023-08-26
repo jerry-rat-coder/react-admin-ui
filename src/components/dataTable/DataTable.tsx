@@ -29,7 +29,7 @@ const DataTable = (props: Props) => {
   // //   }
   // // });
 
-  const handleDelete = (id: number) => {
+  const handleDelete = () => {
     //delete the item
     // mutation.mutate(id)
   };
